@@ -21,10 +21,6 @@ author: Eugenio Rossini
 
 navbar-links:
   Su di me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -39,7 +35,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/planet_icon.ico
+title-img: /assets/img/boat.png
 
 
 #####################################
